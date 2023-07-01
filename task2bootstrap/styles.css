@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bg{
+    background-image: url("https://i.pinimg.com/originals/1d/70/cf/1d70cfd8fb6f3ed7d98334f099e53b36.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 750px;   
+}
+.immg{
+   float: right;
+}
+.card-body {
+    /* Background pattern from Toptal Subtle Patterns */
+    background-image: url("https://thumbs.dreamstime.com/b/construction-material-beige-plywood-background-construction-material-beige-plywood-texture-abstract-art-background-solid-color-ldf-151081079.jpg");
+ }
+ .container-fluid{
+    background-image: url("https://wallpapers.com/images/hd/beige-color-background-byev3i918mhvptur.jpg");
+ }
